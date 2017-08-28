@@ -24,12 +24,72 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Ocean.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Organism.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Plankton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="NonPlankton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ZooPlankton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhytoPlankton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Clam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shrimp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dolphin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Octopus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="AquaticEcosystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ocean.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Organism.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Plankton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NonPlankton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PhytoPlankton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ZooPlankton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Clam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shrimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dolphin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Octopus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
